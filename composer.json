@@ -1,0 +1,19 @@
+{
+  "name": "stan/helpers",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "stan\\helpers\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "stan",
+      "email": "stan87@foxmail.com"
+    }
+  ],
+  "require": {}
+}

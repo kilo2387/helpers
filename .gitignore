@@ -1,0 +1,6 @@
+.idea
+*.bat
+.
+..
+vendor
+.git
